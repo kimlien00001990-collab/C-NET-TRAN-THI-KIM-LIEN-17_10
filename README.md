@@ -1,8 +1,8 @@
 # BÁO CÁO BÀI TẬP NGÀY 17/10/26
 
 ## THÔNG TIN SINH VIÊN
-- **Họ và tên:** Trần Thế Hào
-- **Mã số sinh viên:** 24810320120
+- **Họ và tên:** Trần Thị Kim Liên
+- **Mã số sinh viên:** 24810320108
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** Bài 1-3
